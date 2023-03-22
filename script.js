@@ -1,6 +1,5 @@
 // complete the given function
 
-function palindrome(str){
 function palindrome(s){
 	s = s.toLowerCase().replace(/[^a-z0-9]/g, '');
   
